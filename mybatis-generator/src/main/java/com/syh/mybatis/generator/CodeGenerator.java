@@ -9,15 +9,15 @@ import com.baomidou.mybatisplus.generator.engine.FreemarkerTemplateEngine;
 public class CodeGenerator {
 
     public static void main(String[] args) {
-//        generator("HSY",
-//                "jdbc:mysql://ip:port/LibName?useUnicode=true&useSSL=false&characterEncoding=utf8",
-//                "com.mysql.jdbc.Driver",
-//                "XXX",
-//                "XXX",
-//                "com.syh.mybatis",
-//                "springbootMybatis",
-//                "authority",
-//                "user");
+        generator("HSY",
+                "jdbc:mysql://ip:port/LibName?useUnicode=true&useSSL=false&characterEncoding=utf8",
+                "com.mysql.jdbc.Driver",
+                "XXX",
+                "XXX",
+                "com.syh.mybatis",
+                "springbootMybatis",
+                "authority",
+                "user");
     }
 
     /**
