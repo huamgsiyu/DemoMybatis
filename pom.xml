@@ -32,7 +32,7 @@
         <!-- druid连接池 -->
         <druid.version>1.1.10</druid.version>
         <!-- MySQL驱动 -->
-        <mysql.version>5.1.47</mysql.version>
+        <mysql.version>8.0.28</mysql.version>
         <!-- mybatis plus -->
         <mybatis-plus.version>3.1.0</mybatis-plus.version>
         <!-- swagger2 -->
