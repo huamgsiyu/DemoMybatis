@@ -36,7 +36,7 @@
         <!-- mybatis plus -->
         <mybatis-plus.version>3.1.0</mybatis-plus.version>
         <!-- swagger2 -->
-        <swagger2.version>2.9.2</swagger2.version>
+        <swagger2.version>2.10.0</swagger2.version>
         <!-- fastJson -->
         <fastjson.version>1.2.58</fastjson.version>
 
